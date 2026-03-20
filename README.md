@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola soy Montserrat Abigail 👋
 
-<!--
-**montserratcastillopm25250-afk/montserratcastillopm25250-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👽 Sobre mi 
+- 🔭 Actualmente estoy estudiando en el Colegio de Estudio y Tecnologico del Estado de Campeche en Plantel Pomuch en la Esencialidad de Programacion
+- 🌱 Estoy aprendiendo a programar en el lengusje de Python y a utilizar la terminal
 
-Here are some ideas to get you started:
+### 🔨🎒 Herramienta en mi mochila
+-**Sistemas:**linux Mint
+-**Control de verciones:**Git y GitHub
+-**Aprediendo ahora:**Logica de programacion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*"Mi trabajo en una sola linea: deprimente"
