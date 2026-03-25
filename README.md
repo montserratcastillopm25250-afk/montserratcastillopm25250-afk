@@ -5,9 +5,9 @@
 - 🌱 Estoy aprendiendo a programar en el lengusje de Python y a utilizar la terminal
 
 ### 🔨🎒 Herramienta en mi mochila
--**Sistemas:**linux Mint
--**Control de verciones:**Git y GitHub
--**Aprediendo ahora:**Logica de programacion
+- **Sistemas:** linux Mint
+- **Control de verciones:** Git y GitHub
+- **Aprediendo ahora:** Logica de programacion
 
 ---
-*"Mi trabajo en una sola linea: deprimente"
+- *"Mi trabajo en una sola linea: deprimente"*
